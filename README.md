@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @OldVersal
-- 👀 I’m interested in: Programming .
-- 🌱 I’m currently learning: PHP.
-- 💞️ I’m looking to collaborate on: TilinToons.
-- 📫 How to reach me: oldversal ( Discord )
-
-# Follow your dreams and fulfill them.
+# OldVersal
+- I am learning: php
+- Management: AOI.js
+- Owner: LegacyMC
+# 💻 LANG
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
